@@ -1,14 +1,8 @@
-# brevity
+# drd
 
-A Clojure library designed to ... well, that part is up to you.
+It's short for Dr. Docherty.
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Heather asked me to make a website where people could upload photos and videos of
+their time with Richard. This website is an attempt to dry-fire the new `brevity`
+template and build a library around s3 pre-signed urls. Wish it was a bit more 
+fun-spirited, but as far as I'm concerned, it's an honor to build this for Richard.
